@@ -1,0 +1,18 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "name":"The Bowery Boys",
+            "Genre":["Drama","Comedy","Action"],
+            "totalTickets":30,
+            "price":100
+        },
+        {
+            "id":2,
+            "name":"The Bowery Boys",
+            "Genre":["Drama","Comedy","Action"],
+            "totalTickets":30,
+            "price":100
+        }
+    ]
+}
